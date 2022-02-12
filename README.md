@@ -30,3 +30,4 @@ npm run build
 los arhivos generados en la carpeta build los puede copiar a su servidor en produccción, una vez copiado a su servidor debe hacer un ```npm install``` y en el servidor NODEJS debe  ejecutar el archivo index.js por ejem: ```node index.js```
 (Se recomienda usar PM2)
 
+[Artículo en Medium con el tutorial Completo](https://rolando-dev.medium.com/instalación-de-parse-server-typescript-webpack-5-b4f51f7dfd08)
